@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nnaji Chimuanya
 - 👀 I’m a Medical student and interested in computer programs.
-- 🌱 I’m currently learning JavaScript and PHP
+- 🌱 I’m currently into JavaScript and PHP for Backend development. 
 - 💞️ I’m looking to collaborate with people on several
 - 📫 How to reach me 
    E-mail = nnajichimuanya50@gmail.com 
