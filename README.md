@@ -50,18 +50,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Expressjs" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
  
 </div>
 
 
 
-- 👋 Hi, I’m Nnaji Chimuanya
-- 👀 I’m a Medical student and interested in computer programs.
-- 🌱 I’m currently into JavaScript and PHP for Backend development. 
-- 💞️ I’m looking to collaborate with people on several
-- 📫 How to reach me 
-   E-mail = nnajichimuanya50@gmail.com 
-   Twitter = nnajiChimuanya
+
 
 <!---
 NnajiChimuanya/NnajiChimuanya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
