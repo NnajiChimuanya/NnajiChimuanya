@@ -61,6 +61,8 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NnajiChimuanya&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=NnajiChimuanya&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NnajiChimuanya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
