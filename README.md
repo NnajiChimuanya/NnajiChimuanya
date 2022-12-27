@@ -25,9 +25,9 @@
 
 I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m working as a Freelance Software Engineer, building and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer, building and contributing to fullstack applications.
 
-- :seedling: I'm a Blockchain enthusiast currently learning Solidity, emerging web technologies, C++
+- :seedling: I'm a Robotics and AI enthusiast, currently learning C programming language and python.
 
 - :zap: In my free time, I solve problems on codewars, write and read tech articles.
 
