@@ -27,9 +27,9 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer, building and contributing to fullstack applications.
 
-- :seedling: I'm a Robotics and AI enthusiast, currently learning C programming language and python.
+- :seedling: I code using Java annd TypeScript. I'm also a Robotics enthusaiast.
 
-- :zap: In my free time, I solve problems on codewars, write and read tech articles.
+- :zap: I enjoy solving coding problems on LeetCodes and Codewars.
 
 - :mailbox:How to reach me:<a href="https://www.linkedin.com/in/chimuanya-nnaji-a3582b175/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
